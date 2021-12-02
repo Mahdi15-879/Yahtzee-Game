@@ -1,0 +1,8 @@
+.Dice {
+  margin: 1em auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(20px, 1fr));
+  grid-column-gap: 5px;
+  align-items: center;
+  justify-content: center;
+}
